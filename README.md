@@ -1,7 +1,7 @@
 ### Pavlo Nohin | Backend developer
 
 💻 **| Python | Django | PostgreSQL**
-📍 Umeå, Sweden  
+📍 Vilhelmina, Sweden  
 
 ---
 
